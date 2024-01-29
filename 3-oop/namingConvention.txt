@@ -1,0 +1,9 @@
+1. Use Camel Case
+
+2. For Class & Interface -> Color, Homes, Runable
+3. For Constructor -> Color(), Homes()
+
+4. For Variable -> name, age
+5. For Methods -> name(), age(), getName()
+
+6. For Constant -> PIE, GRAVITY, MY_DATA
