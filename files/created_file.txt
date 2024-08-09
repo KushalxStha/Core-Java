@@ -1,0 +1,2 @@
+This is written directly from the code.
+This is second line.File has been appended.
